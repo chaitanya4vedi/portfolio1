@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+Developer: Chaitanya Chaturvedi.
+contact: https://docs.google.com/forms/d/e/1FAIpQLSfA9D-bscpGu_2pAKBud4XOoUPPi_roGKpr4_hVsQoXAIsoLg/viewform
+Twitter: chaitanya4vedi
+Location: Kolkata, India
+
+# THANKS
+
+
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css

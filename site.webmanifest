@@ -1,0 +1,12 @@
+{
+  "short_name": "Chaitanya Chaturvedi",
+  "name": "Chaitanya Chaturvedi",
+  "icons": [{
+    "src": "apple-touch-icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#008080",
+  "theme_color": "#010081"
+}
